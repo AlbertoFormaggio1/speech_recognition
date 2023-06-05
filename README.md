@@ -2,10 +2,10 @@
 
 <p align="center"><img style="width:20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Charles-University-symbol-4.png/1024px-Charles-University-symbol-4.png"></p>
 
-In this repository you will find a script to fine-tune a Wav2Vec 2.0 model over an Italian and English dataset by using the joint learning technique.
+In this repository you will find a script to fine-tune a Wav2Vec 2.0 model over an Italian and English dataset by using the *joint language learning*.
 Furthermore, also inference of a dataset of self-recorded sentences was done.
 
-A fine-tuning of 19 hours was done and the WER achieved over the common voice dataset was of 3.3%.
+A *fine-tuning of 19 hours* was done and the error achieved over the common_voice dataset was **3.3% WER**.
 No information on the language was given to the network so the language was understood directly by the network during inference.
 
 One thing that was possible to notice when decoding the recordings recorded by myself is that, when recognizing a recording mainly in one language, the network was not able to "switch" to another language for recognizing some words in that other language.
