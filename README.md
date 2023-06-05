@@ -15,6 +15,8 @@ Prediction: "mi piace molto il corso di spiecede kegonition"
 
 It is likely that by fine-tuning on bigger datasets with also some "language switch" inside the single recordings, the network will be able to understand more easily this special cases.
 
+The results of the decoding can be found in the file [iten_model_both_dataset](iten_model_both_dataset.txt)
+
 The training script was inspired by https://github.com/huggingface/transformers/blob/main/examples/pytorch/speech-recognition/run_speech_recognition_ctc.py while the decoding script was entirely written by myself.
 
 ## Wav2Vec 2.0
