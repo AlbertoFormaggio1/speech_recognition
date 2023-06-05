@@ -1,0 +1,49 @@
+Downloading and preparing dataset audiofolder/default to /home/formagga/.cache/huggingface/datasets/audiofolder/default-6c357338135712ce/0.0.0/6cbdd16f8688354c63b4e2a36e1585d05de285023ee6443ffd71c4182055c0fc...
+Dataset audiofolder downloaded and prepared to /home/formagga/.cache/huggingface/datasets/audiofolder/default-6c357338135712ce/0.0.0/6cbdd16f8688354c63b4e2a36e1585d05de285023ee6443ffd71c4182055c0fc. Subsequent calls will reuse this data.
+prediction: im so tired i think i v it go to sleep now
+label: im so tired i think i will go to sleep now
+###################################################
+prediction: do ont a hank out tomorrow night what do yill think we can go i was thinking about dogs were by im not wath shure
+label: do you wanna hang out tomorrow night where do you think we can go i was thinking about dogsbar but im not quite sure
+###################################################
+prediction: how is at even possible bhat the sant is setting at nine thirty and then a its rising at five in the morning
+label: how is that even possible that the sun is setting at nine thirty and then its rising at five in the morning
+###################################################
+prediction: i would love to go to the seaside i really miss going there with my friend in spanning time together
+label: i would love to go to the seaside i really miss going there with my friends and spending time together
+###################################################
+prediction: wha do you think is a bether idea apple or a sam song
+label: what do you think is a better idea apple or samsung
+###################################################
+prediction: let me record quit along centens in which i will not say anything wrilly useful but i will just skiep on saying something just mate the oudiel long
+label: let me record quite a long sentence in which i will not say anything really useful but i will just keep on saying something just to make the audio long
+###################################################
+prediction: and it is the last sentense of this data set finaly i really dont know what ils to say sawym just recording randomly
+label: and this is the last sentence of this dataset finally i really dont know what else to say so i[UNK]m just recording randomly
+###################################################
+prediction: i think that an english degree would give you a strong adbandage when compared to other aplicants doing the jop interview
+label: i think that an english degree would give you a strong advantage when compared to other applicants during the job interview
+###################################################
+prediction: i really hope thes wove to bat to model is goin to perform wele on my voice
+label: i really hope this wav two vec two model is going to perform well on my voice
+###################################################
+prediction: rulle don ondhestand why people are using pytourch in steld of tenco flow
+label: i really dont understand why people are using pytorch instead of tensorflow
+###################################################
+prediction: a tomorrow i will go affor a walk because im so tired of thes exampts
+label: tomorrow i will go out for a walk because im so tired of these exams
+###################################################
+prediction: honesly after six months abrod i find it quite hard to even think in italian
+label: honestly after six months abroad i find it quite hard to even think in italian
+###################################################
+prediction: tv series are such a waist of time
+label: tv series are such a waste of time
+###################################################
+prediction: do you think i c an asi teacher if i can gray myxsamreol quake because i have so many exampts and i want to know my grate
+label: do you think i can ask the teacher if he can grade my exam real quick because i have so many exams and i want to know my grade
+###################################################
+prediction: as work to garde my gofriend is so addicted to milk
+label: i swear to god my girlfriend is so addicted to milk
+###################################################
+Test WER: 0.312
+Test CER: 0.118

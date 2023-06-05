@@ -1,0 +1,49 @@
+Downloading and preparing dataset audiofolder/default to /home/formagga/.cache/huggingface/datasets/audiofolder/default-103d93d4ddeccde5/0.0.0/6cbdd16f8688354c63b4e2a36e1585d05de285023ee6443ffd71c4182055c0fc...
+Dataset audiofolder downloaded and prepared to /home/formagga/.cache/huggingface/datasets/audiofolder/default-103d93d4ddeccde5/0.0.0/6cbdd16f8688354c63b4e2a36e1585d05de285023ee6443ffd71c4182055c0fc. Subsequent calls will reuse this data.
+prediction: mi piace molto il corso di spiecede kegonition
+label: mi piace molto il corso di speech recognition
+###################################################
+prediction: odio che ansia ho un esame tredeore e non ce ra faccio più
+label: oddio che ansia ho un esame tra due ore e non ce la faccio più
+###################################################
+prediction: che sete ricaptami la bottiglia dacqua
+label: che sete riesci a passarmi la bottiglia d[UNK]acqua
+###################################################
+prediction: la cosa è di importante la fare quando ti alleni è spingere al massimo seno resti secco
+label: la cosa più importante quando ti alleni è spingere al massimo se no resti secco
+###################################################
+prediction: penso che lerasmos sia stato uno dei periodi migliori della mia vita
+label: penso che lerasmus sia stato uno dei periodi migliori della mia vita
+###################################################
+prediction: le cuffie con ilnice canselation sono ante le cose migliori que lao potessenimentare
+label: le cuffie con il noise cancellation sono una delle cose migliori che luomo potesse inventare
+###################################################
+prediction: allora con da chevina trovarmi i le i peso il biglietto
+label: allora quandè che vieni a trovarmi lhai preso il biglietto
+###################################################
+prediction: il corriere è arrivato a casa in ritardo
+label: il corriere è arrivato a casa in ritardo
+###################################################
+prediction: sono veramente stanco penso che andrò dormire
+label: sono veramente stanco penso che andrò a dormire
+###################################################
+prediction: non capisco come sia possibile che a prida ci sia così tanto freddo a iniziomaggio
+label: non capisco come sia possibile che a praga ci sia così tanto freddo ad inizio maggio
+###################################################
+prediction: mandami liban che poi ti girò i soldi sul cotocorrente
+label: mandami liban che poi ti giro i soldi sul conto corrente
+###################################################
+prediction: ma quindi cu est’e state vuorivenere ano concerto o preferivi o andarte corona ava a caunza da qualche parte
+label: ma quindi questestate volevi andare ad un concerto o preferivi andarti a fare una vacanza da qualche parte
+###################################################
+prediction: nova befra assurdo e lei chi ha detto
+label: no vabbè fra assurdo e lei che ha detto
+###################################################
+prediction: ti guro sarebbe un miolsogno farni un costu costo negli stati uniti certo veramente non ha idea
+label: ti giuro sarebbe un mio sogno farmi un coast to coast negli stati uniti tu veramente non hai idea
+###################################################
+prediction: non so perché però quando fuori cè il sole io sono sempre un sacco contento mentre quando piove sone proprio triste
+label: non so perchè però quando fuori cè il sole io sono sempre un sacco contento mentre quando piove sono proprio triste
+###################################################
+Test WER: 0.358
+Test CER: 0.128

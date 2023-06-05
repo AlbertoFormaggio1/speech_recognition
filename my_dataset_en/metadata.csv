@@ -1,0 +1,16 @@
+file_name,text
+data/test/File1-en.wav,im so tired i think i will go to sleep now
+data/test/File2-en.wav,i think that an english degree would give you a strong advantage when compared to other applicants during the job interview
+data/test/File3-en.wav,i really hope this wav two vec two model is going to perform well on my voice
+data/test/File4-en.wav,i really dont understand why people are using pytorch instead of tensorflow
+data/test/File5-en.wav,tomorrow i will go out for a walk because im so tired of these exams
+data/test/File6-en.wav,honestly after six months abroad i find it quite hard to even think in italian
+data/test/File7-en.wav,tv series are such a waste of time
+data/test/File8-en.wav,do you think i can ask the teacher if he can grade my exam real quick because i have so many exams and i want to know my grade
+data/test/File9-en.wav,i swear to god my girlfriend is so addicted to milk
+data/test/File10-en.wav,do you wanna hang out tomorrow night where do you think we can go i was thinking about dogsbar but im not quite sure
+data/test/File11-en.wav,how is that even possible that the sun is setting at nine thirty and then its rising at five in the morning
+data/test/File12-en.wav,i would love to go to the seaside i really miss going there with my friends and spending time together
+data/test/File13-en.wav,what do you think is a better idea apple or samsung
+data/test/File14-en.wav,let me record quite a long sentence in which i will not say anything really useful but i will just keep on saying something just to make the audio long
+data/test/File15-en.wav,and this is the last sentence of this dataset finally i really dont know what else to say so i'm just recording randomly
