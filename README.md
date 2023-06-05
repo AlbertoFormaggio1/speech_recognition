@@ -1,5 +1,7 @@
 # Speech Recognition
 
+<p align="center"><img style="width:20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Charles-University-symbol-4.png/1024px-Charles-University-symbol-4.png"></p>
+
 In this repository you will find a script to fine-tune a Wav2Vec 2.0 model over an Italian and English dataset by using the joint learning technique.
 Furthermore, also inference of a dataset of self-recorded sentences was done.
 
@@ -18,3 +20,5 @@ The training script was mainly inspired by https://github.com/huggingface/transf
 ## Wav2Vec 2.0
 Wav2Vec 2.0 is a pre-trained state-of-the-art transformer-based network released by Facebook mainly relying on the idea of self-supervised learning.
 More information can be found on the [official site](https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/) or in the [official paper](https://arxiv.org/pdf/2006.11477.pdf?fbclid=IwAR02UISCotdo8JX3cUMT7hPKTas0nh0WV6b5Yaiu5lXRoAH0mcl0topUOjw).
+
+<p align="center"><img style="width:60%" src="https://huggingface.co/blog/assets/15_fine_tune_wav2vec2/wav2vec2.png"></p>
